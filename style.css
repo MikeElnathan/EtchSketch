@@ -1,0 +1,38 @@
+body
+{
+    background-color: #023047;
+}
+
+#info
+{
+    background-color: #fb8500;
+    text-align: center;
+}
+
+#start
+{
+    margin-bottom: 10px;
+    color: #283618;
+    background-color: #fefae0;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 23px;
+    border-radius: 10px;
+}
+
+#info>h1
+{
+    font-family: calibri, serif;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+#container
+{
+    background-color: #219ebc;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
