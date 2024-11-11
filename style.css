@@ -30,6 +30,9 @@ body
 #container
 {
     background-color: #219ebc;
+    aspect-ratio: 1/1;
+    width: 500px;
+    height: 500px;
     margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
